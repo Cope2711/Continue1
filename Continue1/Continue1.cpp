@@ -206,6 +206,17 @@ int main() {
 // Nombre:
 // Solucion:
 
+
+// Tarea: Crear una interfaz (urgente)  :(
+// Nombre:
+// Solucion:
+
+
+// Tarea: Crear variable que almacene los movimientos efectivos realizados por el jugador
+// Nombre:
+// Solucion:
+
+
 // Tarea: Evitar que el jugador se quede sin movimientos al spawnear un moveZone fuera de los limites del mapa 
 // Nombre: Diego
 // Solucion: Se comprueban los bordes del mapa antes de retornar el randomCharacter
