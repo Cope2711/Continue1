@@ -4,7 +4,7 @@
 #include <string>
 #include <vector>
 #include <iostream>
-#include "Parameters.h" // Asegúrate de incluir solo una vez Parameters.h
+#include "Parameters.h"
 using namespace std;
 
 class Map
